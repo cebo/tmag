@@ -1,0 +1,248 @@
+/* ================================================  MOBILES BELOW 399 ======================================= */
+
+
+@media only screen 
+and (max-width : 700px) 
+{	
+ 	.wrapper { margin: 10px; overflow: hidden; min-height: 800px;}
+ 	.told img { max-width: 70%; }
+ 	.book-holster { height: 330px; background-size: cover;}
+ 	.told { background-size: 131%; top: 140px; }
+ 	.book-holster h1 { letter-spacing: 1px; padding-top: 220px; }
+
+ 	.story-right { width: 100%; position: relative; top: -150px; display: none;}
+ 	.story-right img { margin-left: -100px; max-width: 580px;}
+ 	.stellar { bottom: 14%; }
+ 	.story-left { padding-top: 0; margin-top: -190px; width: 75%; display: none;}
+ 	.story-container { padding-bottom: 175px; }
+ 	.lowershelf { margin-top: -70px; }
+ 	.lowershelf h2 { font-size: 50px; line-height: 65px; }
+ 	#instafeed img { width: 100%; margin: 0;}
+ 	.fiona { position: relative; bottom: auto; width: 90%; margin: auto; font-size: 22px; top: 60px}
+ 	.fiona .button { padding: 18px 20px; }
+ 	.sky2 .clouds_one { display: none }
+ 	.hellofromtale { width: 100%; float: none; padding-top: 50px;}
+ 	.twocol { column-count: 1; column-gap: 0; width: 100%; float: none; }
+ 	.blogpostcontainer { column-count: 1; column-gap: 0; width: 100%; float: none; }
+ 	.plistcontain { column-count: 1; column-gap: 0; width: 100%; float: none; }
+ 	.imageable { height: 340px; }
+ 	.unhidbox { top: 44%; }
+ 	.searchbox ul { width: 100%; float: none; }
+ 	.searchbox form { display: none; }
+ 	.hiddenbox p { max-height: 50px; }
+ 	.metabox { margin: -100px auto 0; }
+ 	.category-filters { display: none }
+ 	.loogbo h3 { letter-spacing: 23px;  }
+ 	.loogbo h4 { letter-spacing: 5px; max-width: 80%; margin: auto; color: #fff;}
+ 	.searchlever { width: 100%; }
+ 	.slipped { display: none; }
+ 	.videohalf { width: 80%; float: none; margin: auto; }
+ 	.videohalf.right { width: 80%; float: none }
+ 	.abouter { padding: 40px 0; }
+ 	.story-container { padding-bottom: 0; }
+ 	.videohalf p { bottom: 0; }
+ 	.submission-box .container form { padding: 0; }
+ 	.leftybox, .rightbox { width: 100%; float: none; }
+ 	.submission-box .container form input.bigtitle { font-size: 30px; padding: 30px 0; }
+ 	.submission-box .container form.wpcf7-form input[type=submit] { position: relative; left: 0;}
+ 	.faqholster { padding: 30px 0; }
+ 	.narrower p { line-height: 16px; padding-right: 0;}
+ 	nav { top: 0; }
+ 	.hamburger { left: 10px; }
+ 	nav .button { padding: 4px 15px; letter-spacing: 1px; display: none; }
+ 	.supernav ul { width: 90%; left: 5%; }
+ 	.supernav ul li a { font-size: 30px; line-height: 35px; }
+ 	#toggle-view h3 { letter-spacing: 1px; padding-right: 10px; }
+ 	.intro-container { padding: 0; }
+ 	.widenit .intro { width: 90%; }
+ 	.intro  { width: 90%; float: none; margin: 0 auto 20px;}
+ 	.intro-copy h1 { font-size: 45px; }
+ 	.continued-container { padding: 0 0 60px 0 }
+ 	.widenit .content { width: 90%; text-align: left; }
+ 	.content .lining { max-width: 90%; }
+ 	.content .firstcol, .content .secondcol { width: 100%; float: none; }
+ 	.submissionsect, .submissionsect span { font-size: 14px; letter-spacing: 0 }
+ 	.full-image { display: none }
+ 	.mobile-image { display: block; }
+ 	.formob { height: inherit !important; max-height: inherit;}
+ 	.post-images { display: none }
+ 	.content { width: 90%; float: none; position: relative !important; width: inherit !important; }
+ 	.brace { height: 20px !important }
+ 	.formob .metameta { padding-top: 40px; }
+ 	.content + div { height: inherit !important; }
+ 	.filmpage p { width: 90%; }
+ 	.primecontent { padding: 100px 0px }
+ 	.primecontent .alignleft { width: 126% }
+ 	#content { padding: 30px; }
+
+
+
+
+}
+
+
+@media only screen 
+and (min-width : 1600px) 
+{
+
+	.wrapper { margin: 30px auto; }
+}
+
+/* ================================================  MOBILES BELOW 480 to 400 ======================================= */
+
+
+@media only screen 
+and (min-width : 400px) 
+and (max-width : 479px) 
+{	
+
+
+
+
+
+
+
+
+}
+
+
+
+/* ================================================  MOBILES BELOW 480 to 640 ======================================= */
+
+
+@media only screen 
+and (min-width : 480px) 
+and (max-width : 639px) 
+{	
+
+
+
+
+
+
+
+
+				
+}
+
+
+
+/* ================================================  LARGE MOBILE DEVICES AND SMALL TABLETS BELOW 799  ======================================= */
+
+
+@media only screen 
+and (min-width : 640px) 
+and (max-width : 799px) 
+{	
+	
+
+
+
+}
+/* ================================================  SLIGHTLY SMALLER RESOLUTIONS, BUT NOT QUITE IPHONE ======================================= */
+
+
+@media only screen 
+and (min-width : 800px) 
+and (max-width : 854px) 
+{	
+	
+
+}
+
+
+
+
+
+/* ================================================  LARGE PHONE SCREENS SMALLER RESOLUTIONS  ======================================= */
+
+
+@media only screen 
+and (min-width : 855px) 
+and (max-width : 960px) 
+{	
+
+	
+
+
+
+
+}
+
+
+
+/* ================================================  IPADS AT LANDSCAPE WIDTH 1024  ======================================= */
+
+
+@media only screen 
+and (min-width : 961px) 
+and (max-width : 1024px) 
+{	
+
+
+
+
+
+		
+}
+
+
+/* ================================================  FIRST STAGE LARGER THAN 1024PX UP TO LARGER BROWSERS  ======================================= */
+
+
+
+@media only screen 
+and (min-width : 1025px) 
+and (max-width : 1223px) 
+{		
+		
+	
+	
+	
+	
+	
+	
+}
+
+
+
+/* #Narrow Screen, Below 1400px (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 768px */
+
+
+
+@media only screen 
+and (min-width : 1224px) 
+and (max-width : 1300px) 
+{
+
+
+
+
+
+
+
+
+}
+	
+
+@media only screen 
+and (min-width : 1224px) 
+and (max-width : 1399px) 
+{
+
+	
+	
+	
+	
+	
+	
+                
+}
+	
+
+
+
+

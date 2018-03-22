@@ -1,0 +1,192 @@
+/* ================================================  MOBILES BELOW 399 ======================================= */
+
+
+@media only screen 
+and (max-width : 700px) 
+{	
+ 	.wrapper { margin: 10px; overflow: hidden;}
+ 	.told img { max-width: 70%; }
+ 	.book-holster { height: 370px; background-size: cover;}
+ 	.told { background-size: 131%; top: 140px; }
+ 	.book-holster h1 { letter-spacing: 1px; padding-top: 60px; }
+
+ 	.story-right { width: 100%; position: relative; top: -150px;}
+ 	.story-right img { margin-left: -100px; max-width: 580px;}
+ 	.stellar { bottom: 14%; }
+ 	.story-left { padding-top: 0; margin-top: -190px; width: 75%; }
+ 	.story-container { padding-bottom: 175px; }
+ 	.lowershelf { margin-top: -70px; }
+ 	.lowershelf h2 { font-size: 50px; line-height: 65px; }
+ 	#instafeed img { width: 100%; margin: 0;}
+
+
+
+
+}
+
+
+@media only screen 
+and (min-width : 1600px) 
+{
+
+	.wrapper { margin: 30px auto; }
+}
+
+/* ================================================  MOBILES BELOW 480 to 400 ======================================= */
+
+
+@media only screen 
+and (min-width : 400px) 
+and (max-width : 479px) 
+{	
+
+
+
+
+
+
+
+
+}
+
+
+
+/* ================================================  MOBILES BELOW 480 to 640 ======================================= */
+
+
+@media only screen 
+and (min-width : 480px) 
+and (max-width : 639px) 
+{	
+
+
+
+
+
+
+
+
+				
+}
+
+
+
+/* ================================================  LARGE MOBILE DEVICES AND SMALL TABLETS BELOW 799  ======================================= */
+
+
+@media only screen 
+and (min-width : 640px) 
+and (max-width : 799px) 
+{	
+	
+
+
+
+}
+/* ================================================  SLIGHTLY SMALLER RESOLUTIONS, BUT NOT QUITE IPHONE ======================================= */
+
+
+@media only screen 
+and (min-width : 800px) 
+and (max-width : 854px) 
+{	
+	
+
+}
+
+
+
+
+
+/* ================================================  LARGE PHONE SCREENS SMALLER RESOLUTIONS  ======================================= */
+
+
+@media only screen 
+and (min-width : 855px) 
+and (max-width : 960px) 
+{	
+
+	
+
+
+
+
+}
+
+
+
+/* ================================================  IPADS AT LANDSCAPE WIDTH 1024  ======================================= */
+
+
+@media only screen 
+and (min-width : 961px) 
+and (max-width : 1024px) 
+{	
+
+
+
+
+
+		
+}
+
+
+/* ================================================  FIRST STAGE LARGER THAN 1024PX UP TO LARGER BROWSERS  ======================================= */
+
+
+
+@media only screen 
+and (min-width : 1025px) 
+and (max-width : 1223px) 
+{		
+		
+	
+	
+	
+	
+	
+	
+}
+
+
+
+/* #Narrow Screen, Below 1400px (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 768px */
+
+
+
+@media only screen 
+and (min-width : 1224px) 
+and (max-width : 1300px) 
+{
+
+
+
+
+
+
+
+
+}
+	
+
+@media only screen 
+and (min-width : 1224px) 
+and (max-width : 1399px) 
+{
+
+	
+	
+	
+	
+	
+	
+                
+}
+	
+
+
+
+

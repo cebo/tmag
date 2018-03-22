@@ -1,0 +1,80 @@
+@font-face {
+	font-family: 'brandon_grotesqueblack';
+	src: url('fonts/brandon_blk-webfont.eot');
+	src: url('fonts/brandon_blk-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('fonts/brandon_blk-webfont.woff2') format('woff2'),
+		 url('fonts/brandon_blk-webfont.woff') format('woff'),
+		 url('fonts/brandon_blk-webfont.ttf') format('truetype'),
+		 url('fonts/brandon_blk-webfont.svg#brandon_grotesqueblack') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'bruxregular';
+    src: url('fonts/brux-regular-webfont.woff2') format('woff2'),
+         url('fonts/brux-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+	font-family: 'TallSkinny';
+	src: url('fonts/TallSkinnyCondensed.eot');
+	src: url('fonts/TallSkinnyCondensed.eot?#iefix') format('embedded-opentype'),
+		url('fonts/TallSkinnyCondensed.woff') format('woff'),
+		url('fonts/TallSkinnyCondensed.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'brandon_text';
+    src: url('fonts/brandontext-bold-webfont.eot');
+    src: url('fonts/brandontext-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/brandontext-bold-webfont.woff2') format('woff2'),
+         url('fonts/brandontext-bold-webfont.woff') format('woff'),
+         url('fonts/brandontext-bold-webfont.ttf') format('truetype'),
+         url('fonts/brandontext-bold-webfont.svg#brandon_text') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'ProximaNova-Light';
+  src: url('fonts/ProximaNova-Light.eot?#iefix') format('embedded-opentype'),  url('fonts/ProximaNova-Light.woff') format('woff'), url('fonts/ProximaNova-Light.ttf')  format('truetype'), url('fonts/ProximaNova-Light.svg#ProximaNova-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+	       font-family: 'Proxima';
+	       src: url('fonts/proximanova-regular-webfont.eot');
+	       src: url('fonts/proximanova-regular-webfont.eot?iefix') format('eot'),url('fonts/proximanova-regular-webfont.woff') format('woff'),url('fonts/proximanova-regular-webfont.ttf') format('truetype'),url('fonts/proximanova-regular-webfont.svg') format('svg')
+}
+
+@font-face {
+	       font-family: 'ProximaBold';
+	       font-weight: bold;
+	       src: url('fonts/proximanova-bold-webfont.eot');
+	       src: url('fonts/proximanova-bold-webfont.eot?iefix') format('eot'),url('fonts/proximanova-bold-webfont.woff') format('woff'),url('fonts/proximanova-bold-webfont.ttf') format('truetype'),url('fonts/proximanova-bold-webfont.svg') format('svg')
+}
+
+
+@font-face {
+    font-family: "Cambria";
+    src: url('fonts/769805909-Cambria.eot');
+    src: url('fonts/769805909-Cambria.eot?#iefix') format('embedded-opentype'),
+    url('fonts/769805909-Cambria.svg#Cambria') format('svg'),
+    url('fonts/769805909-Cambria.woff') format('woff'),
+    url('fonts/769805909-Cambria.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+

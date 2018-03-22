@@ -1,0 +1,364 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ================================================  MOBILES ======================================= */
+
+
+@media only screen 
+and (max-width : 839px) 
+{	
+    
+	.logocenter { left: 0; margin-left: 0; height: 54px; width: 100px; padding-top: 12px; box-shadow: none; }
+	.logocenter img { max-width: 73%; }
+	    .pagemates iframe { border-right: 0; border-left: 0; border-bottom: 0; width: 90% !important; margin-left: -24px; max-width: 95%; margin-left: -54px;
+max-width: 95%;
+padding: 40px }
+	nav { background: #fff; border-bottom: 1px solid #ddd; height: 65px; }
+	nav:before { display: none; }
+	.hamburger, .livebox { display: block; }
+	nav ul { display: none; }
+	.floating-copy h2:before, .floating-copy h2:after { display: none }
+	.full-bg { background-image: url(../images/ban-bg-mobile.jpg) !important; }
+	.floating-copy h2 { font-size: 18vw; }
+	.floating-copy { top: 63%; }
+	.floating-copy p span { display: none; }
+	.flames { display: none }
+	.hellomama { padding: 40px 0 60px 0; }
+	.mamascontent { width: 80%; left: 10%;}
+	.mamascontent h2 { font-size: 26px; line-height: 30px; }
+	.scrollmama, .staggered, .insta, .mapsect { display: none }
+	.mobile-breaker { display: block; }
+	.redbar { padding: 40px 0; }
+	footer ul.leftnav, footer ul.rightnav { display: none; }
+	footer .logocenter { left: 35%;top: -23px; }
+	.signupbar h2 { text-align: center; }
+	.signupbar h2, .formable { width: 100%; float: none; }
+	.formable input[type=submit] { width: 100px; }
+	.footer p.cpy { width: 40%; }
+	.large-hello { font-size: 18vw; }
+
+	.narrowered { width: 90%; }
+	.pagemates h1 { font-size: 30px; }
+	.floatingfilter { display: none; }
+	.slipperversion { width: 100% !important; float: none !important; }
+	.pagemates .togbutt { top: -1px; right: 1px; border-radius: 0; padding: 2px 21px; }
+	.menuable li { display: block; border-right: none; border-bottom: 1px solid #ddd; }
+
+	.menubox, .menubar, #allergen, .menuholder { display: none; }
+	#toggle-view .panel { padding: 30px; }
+	.mobilemenuversion { display: block; }
+	.eachloc { width: 100%; float: none; }
+
+	.pagemates .button {
+    font-size: 14px;
+    line-height: 50px;
+    display: block;
+    text-align: center;
+    line-height: 19px;
+    margin: 0 0 10px 0;
+    } 
+    #preloader, #status {
+        display: none !important;
+    }
+    
+    .funbar, .letsparty {
+        display: none !important;
+    }
+    
+    .footer p.socs, .footer p.cpy { float: none; text-align: center; width: 100%; padding: 0 0 10px 0; }
+    .hasScrolled .logocenter { padding-top: 12px; height: 54px; }
+    
+    .panel h2 {     font-family: 'Open Sans', sans-serif; font-weight: bold; font-size: 15px; position: relative;     margin: 0;
+    line-height: 15px; }
+    #toggle-view .menu-item span { display: block; position: relative; top: 0; height: 20px;
+    padding-top: 6px; }
+    
+    .thumbber { width: 100%; float: none; margin: 7px 0 10px 0; }
+
+    .panel .menu-item h2 img.glut {
+        width: 17px;
+    }
+    
+    .panel .menu-item h2 img.vega {
+        width: 15px;
+        position: relative;
+        top: -1px;
+    }
+    
+    .panel .menu-item h2 img {
+        width: 11px;
+        margin: 0 4px;
+    }
+    
+    
+    .mobile-sect-loc { display: block; }
+    .joblocs { display:none; }
+    
+    .spitfire {  padding: 80px 30px; width: calc(100% - 62px); }
+    .late-sect {  width: calc(100% - 102px); }
+    .reward-info img.liki { width: 100%; float: left; }
+    .infoleft, .inforight { width: 100%; float: none; }
+    .early img { max-width: 79%; }
+    .videoboxer { width: 100%; top: 0px; display: block; position: relative; height: inherit; }
+    .videoboxer .video-container { width: 100%; margin-left: 0; margin-bottom: 0; }
+    .spicesman { column-gap: 0; column-count: 1; }
+    .spicemenu .menu-item { min-height: inherit; }
+    .simplecols { column-gap: 0; column-count: 1; padding: 0; }
+    .explanat { min-height: inherit; margin-bottom: 10px; }
+    .sweepstakes h3 { line-height: 40px; }
+    .paper { max-width: 90% !important; }
+    .redex { margin-left: 0; }
+    .funati p { width: 100%; padding: 1px 0 40px 0; float: none; font-size: 20px; line-height: 23px; text-align: center;}
+    .sweepstakes .container .funati img { width: inherit; float: none; }
+    .spicemark { background-image: url(http://www.mamafus.com/wp-content/uploads/2017/04/revided.jpg) !important; }
+    
+}
+
+
+
+@media only screen 
+and (max-width : 539px) 
+{	
+    
+	    .pagemates iframe { border-right: 0; border-left: 0; border-bottom: 0; width: 80% !important; margin-left: -24px; max-width: 95%; margin-left: -54px;
+max-width: 85%;
+padding: 40px;
+margin-left: -74px;
+padding: 40px 70px;
+
+}
+
+}
+
+@media only screen 
+and (max-width : 999px) 
+{
+
+
+	.item { padding: 0 5px; }
+	.scrollmama .mamaimg { height: 280px; }
+
+}
+
+
+@media only screen 
+and (max-width : 1170px) 
+{        
+    .menubox { background: #ffffff !important; }
+
+}
+
+/* ================================================  MOBILES BELOW 480 to 400 ======================================= */
+
+
+@media only screen 
+and (min-width : 400px) 
+and (max-width : 479px) 
+{	
+
+
+
+
+
+
+
+
+}
+
+
+
+/* ================================================  MOBILES BELOW 480 to 640 ======================================= */
+
+
+@media only screen 
+and (min-width : 480px) 
+and (max-width : 639px) 
+{	
+
+
+
+
+
+
+
+
+				
+}
+
+
+
+/* ================================================  LARGE MOBILE DEVICES AND SMALL TABLETS BELOW 799  ======================================= */
+
+
+@media only screen 
+and (min-width : 640px) 
+and (max-width : 799px) 
+{	
+	
+
+
+
+}
+/* ================================================  SLIGHTLY SMALLER RESOLUTIONS, BUT NOT QUITE IPHONE ======================================= */
+
+
+@media only screen 
+and (min-width : 800px) 
+and (max-width : 854px) 
+{	
+	
+
+}
+
+
+
+
+
+/* ================================================  LARGE PHONE SCREENS SMALLER RESOLUTIONS  ======================================= */
+
+
+@media only screen 
+and (min-width : 855px) 
+and (max-width : 960px) 
+{	
+
+	
+
+
+
+
+}
+
+
+
+/* ================================================  IPADS AT LANDSCAPE WIDTH 1024  ======================================= */
+
+
+@media only screen 
+and (min-width : 961px) 
+and (max-width : 1024px) 
+{	
+
+
+
+
+
+		
+}
+
+
+/* ================================================  FIRST STAGE LARGER THAN 1024PX UP TO LARGER BROWSERS  ======================================= */
+
+
+
+@media only screen 
+and (min-width : 1025px) 
+and (max-width : 1223px) 
+{		
+		
+	
+	
+	
+	
+	
+	
+}
+
+@media only screen 
+and (max-width : 1410px) 
+{	
+    
+    .soupps {
+        background: url(../images/food1.jpg) 300% -40px no-repeat;
+    }
+
+
+}
+
+
+
+/* #Narrow Screen, Below 1400px (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 768px */
+
+
+
+@media only screen 
+and (min-width : 1224px) 
+and (max-width : 1300px) 
+{
+
+
+
+
+
+
+
+
+}
+	
+
+@media only screen 
+and (min-width : 1224px) 
+and (max-width : 1399px) 
+{
+
+	
+	
+	
+	
+	
+	
+                
+}
+	
+	
+	
+
+
+@media only screen and (min-width: 1400px) and (max-width: 1450px) {
+		
+		
+
+
+
+
+
+
+}
+
+
+@media only screen and (min-width: 1451px) {
+ 
+ 
+ 
+ 
+ 
+                
+
+
+
+} 
+
+
+
+

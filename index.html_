@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+  <meta charset="UTF-8">
+  <title>The Makers Union</title>
+	<meta name="description" content="">
+	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
+	<meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+	<!-- scale set for responsive development -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="shortcut icon" href="http://www.thompsonhotels.com/content/themes/th/ui_built/basics/images/favicon/favicon.ico">
+	<!-- base style sheet -->
+	<link rel="stylesheet" type="text/css" href="style.css">
+
+	<!-- font additions -->
+	<link rel="stylesheet" type="text/css" href="css/fonts.css">
+	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i" rel="stylesheet">
+
+	<!-- include any additional or dependent stylesheets -->
+
+	<!-- responsive style -->
+	<link rel="stylesheet" type="text/css" href="css/media.css">
+</head>
+
+
+<body>
+
+
+	<div class="wrapper">
+
+		<section class="primo">
+
+
+			<div class="book-holster" style="background-image: url(images/topbg-2.jpg)">
+				
+				<h1>Fiction&nbsp;&nbsp;&bull;&nbsp;&nbsp;Photography&nbsp;&nbsp;&bull;&nbsp;&nbsp;Film</h1>
+
+
+				<p class="stellar">001 COming 2017</p>
+
+		         <div class="sky sky2">
+				    <div class="clouds_one"></div>
+				 </div>
+
+			</div>
+
+
+			<div class="story-container">
+
+				<div class="story-right">
+					<img class="booker" src="images/book2.png" alt="Tale" />
+				</div>
+
+				<div class="story-left">
+
+					<h2>Storytellers<br>Inspire Storytellers</h2>
+
+					<p>Tale is a comtemporary magazine showcasing the world’s most remarkable short fiction, stories profound enough to inspire visionary photographers and filmmakers. </p>
+
+					<p>Our revolutionary interface will allow submissions, reviews, and inspiration all in one place. Selected stories will be made into short films, and two films annually submitted to international film festivals</p>
+
+					<h4>Submissions start jan 2017</h4>
+
+					<a href="http://eepurl.com/cn4S2T" class="button">Stay in the loop</a>
+
+				</div>
+
+
+
+
+
+
+			</div>
+
+			<div class="lowershelf">
+
+
+				<h2>Stay Inspired</h2>
+				<p>use #tale to submit your photos from instagram</p>
+
+				<div class="container">
+
+
+					<div id="instafeed"></div>
+
+
+				</div>
+
+			</div>
+
+			<footer>
+
+				
+				<p>Brought to you by The Makers Union</p>
+
+			</footer>
+
+
+
+		</section>
+
+
+	</div>
+
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+<script type="text/javascript" src="js/instafeed.min.js"></script>
+<script type="text/javascript">
+// create two separate instances of Instafeed
+var playTagFeed = new Instafeed({
+    target: 'instafeed',
+	get: 'user',
+    resolution: 'standard_resolution',
+    userId: 5532366,
+    limit: 18,
+    template: '<a class="instable" href="{{link}}"><img src="{{image}}" alt="Tale Magazine" /></a>',
+    accessToken: '5532366.1677ed0.4db1b92bef264a3896d5de9b1a1523f6'
+    // rest of settings
+
+    //4124709774.1677ed0.7397bf7d645d4fafbfd808f20ebd957 
+});
+
+// run both feeds
+playTagFeed.run();
+
+
+
+
+</script>
+<script type="text/javascript" src="js/execute.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,36 @@
+
+@font-face {
+  font-family: 'ProximaNova-Light';
+  src: url('fonts/ProximaNova-Light.eot?#iefix') format('embedded-opentype'),  url('fonts/ProximaNova-Light.woff') format('woff'), url('fonts/ProximaNova-Light.ttf')  format('truetype'), url('fonts/ProximaNova-Light.svg#ProximaNova-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+	       font-family: 'Proxima';
+	       font-weight: bold;
+	       src: url('fonts/proximanova-bold-webfont.eot');
+	       src: url('fonts/proximanova-bold-webfont.eot?iefix') format('eot'),url('fonts/proximanova-bold-webfont.woff') format('woff'),url('fonts/proximanova-bold-webfont.ttf') format('truetype'),url('fonts/proximanova-bold-webfont.svg') format('svg')
+}
+
+@font-face {
+  font-family: 'VivaBeautiful';
+  src: url('fonts/VivaBeautiful.eot');
+  src: url('fonts/VivaBeautiful.eot?#iefix') format('embedded-opentype'),
+    url('fonts/VivaBeautiful.woff') format('woff'),
+    url('fonts/VivaBeautiful.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'VivaBeautifulCaps';
+  src: url('fonts/VivaBeautifulCaps-Regular.eot');
+  src: url('fonts/VivaBeautifulCaps-Regular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/VivaBeautifulCaps-Regular.woff') format('woff'),
+    url('fonts/VivaBeautifulCaps-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+

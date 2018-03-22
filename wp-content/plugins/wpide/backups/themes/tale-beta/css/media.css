@@ -1,0 +1,254 @@
+/* ================================================  MOBILES BELOW 399 ======================================= */
+
+
+@media only screen 
+and (max-width : 399px) 
+{	
+
+
+
+}
+
+
+
+
+/* ================================================  MOBILES BELOW 480 to 400 ======================================= */
+
+
+@media only screen 
+and (min-width : 400px) 
+and (max-width : 479px) 
+{	
+
+
+
+
+
+
+
+
+}
+
+
+
+/* ================================================  MOBILES BELOW 480 to 640 ======================================= */
+
+
+@media only screen 
+and (max-width : 639px) 
+{	
+
+
+	.buffalo { bottom: -105%; letter-spacing: 4px; max-width: 100%; left: 0%; margin: 0 auto 50px; }
+	.full-bg:after { background-size: 99%; height: 99%; }
+	.full-bg:before { bottom: 10%;  display: none;}
+	.button { display: inline-block; margin: 4px 0; min-width: inherit;}
+	.book { display: none; }
+	.halves, .ralph { width: 100%; float: none; }
+	.posts { -webkit-column-count: 1;  -moz-column-count: 1;   column-count: 1; -webkit-column-gap: 0px;  -moz-column-gap: 0px;  column-gap: 0px; }
+	.post { margin-bottom: 22px; }
+	.videowelcome { background-image: url(../images/bg.jpg) }
+	.taledhalf { width: 80%; margin: auto; padding: 60px 0; position: relative; left: auto; top: auto; transform: none; }
+	.container { width: 90%; }
+	footer {  }
+	footer input { width: calc(100% - 60px); }
+	footer input.button { margin:10px auto; width:100%; }
+	.pingable { float: none; width: 100%; }
+	.pingable .hello-about { width: 100%; margin: 0; padding-top: 20px; float: none; }
+	.subnav { float: none; width: 100%; padding-top: 0; padding-bottom: 50px; }
+	.post { min-height: 370px; }
+	.navitems a { font-size: 30px; }
+	.videogallery { max-width: 95%; }
+	.full-bg { background-image: url(../images/12.jpg); }
+
+	.imagegallery {
+      -webkit-column-count: 1; /* Chrome, Safari, Opera */
+    -moz-column-count: 1; /* Firefox */
+    column-count: 1;
+    -webkit-column-gap: 1px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 1px; /* Firefox */
+    column-gap: 1px;
+    max-width: 95%;
+    margin: auto;
+  	}
+  	.large-hello img { width: 80%; }
+  	.floating-copy .button {
+    position: absolute;
+    bottom: -80px;
+    background: #fff;
+    left: 0;
+    margin-left: 0;
+    letter-spacing: 1px;
+    font-size: 12px;
+    width: 100%;
+    padding: 12px 0;
+	}
+	.copy { right: auto; left: 5%; width: 90%; padding: 60px 0; }
+	.book-contain {  background: #fff; overflow: hidden; }
+	.talemaga { display: block; }
+	.book-contain h1 { margin-top: -70px; }
+	.copy h2 { letter-spacing: 1px; }
+	.submission-box .container form input { width: calc(100% - 30px); border-bottom: 1px solid #ddd; }
+	.trese:before, .trese:after { display: none; }
+	.submission-box .container form { padding: 0 }
+	.submission-box .container form input.bigtitle { font-size: 30px; padding: 50px 0; }
+	.submission-box textarea { width: 90%; padding-left: 6%; padding-top: 30px;}
+	.narrower .button { display: block; margin-top: 20px; }
+	.sidebox, .hello { width: 100%; float: none; text-align: center; padding: 15px 0;}
+	.hello a { display: inline-block; float: none; }
+	.submission-box .container form input[type=submit] { position: relative; right: auto; top: auto; width: 100%; }
+	#toggle-view h3 { padding: 27px 15px 30px 59px; }
+
+
+
+				
+}
+
+
+
+/* ================================================  LARGE MOBILE DEVICES AND SMALL TABLETS BELOW 799  ======================================= */
+
+
+@media only screen 
+and (min-width : 640px) 
+and (max-width : 799px) 
+{	
+	
+
+
+
+}
+/* ================================================  SLIGHTLY SMALLER RESOLUTIONS, BUT NOT QUITE IPHONE ======================================= */
+
+
+@media only screen 
+and (min-width : 800px) 
+and (max-width : 854px) 
+{	
+	
+
+}
+
+
+
+
+
+/* ================================================  LARGE PHONE SCREENS SMALLER RESOLUTIONS  ======================================= */
+
+
+@media only screen 
+and (min-width : 855px) 
+and (max-width : 960px) 
+{	
+
+	
+
+
+
+
+}
+
+
+
+/* ================================================  IPADS AT LANDSCAPE WIDTH 1024  ======================================= */
+
+
+@media only screen 
+and (min-width : 961px) 
+and (max-width : 1024px) 
+{	
+
+
+
+
+
+		
+}
+
+
+/* ================================================  FIRST STAGE LARGER THAN 1024PX UP TO LARGER BROWSERS  ======================================= */
+
+
+
+@media only screen 
+and (min-width : 1025px) 
+and (max-width : 1223px) 
+{		
+		
+	
+	
+	
+	
+	
+	
+}
+
+
+
+/* #Narrow Screen, Below 1400px (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 768px */
+
+
+
+@media only screen 
+and (min-width : 1224px) 
+and (max-width : 1300px) 
+{
+
+
+
+
+
+
+
+
+}
+	
+
+@media only screen 
+and (min-width : 1224px) 
+and (max-width : 1399px) 
+{
+
+	
+	
+	
+	
+	
+	
+                
+}
+	
+	
+	
+
+
+@media only screen and (min-width: 1400px) and (max-width: 1450px) {
+		
+		
+
+
+
+
+
+
+}
+
+
+@media only screen and (min-width: 1451px) {
+ 
+ 
+ 
+ 
+ 
+                
+
+
+
+} 
+
+
+
+
